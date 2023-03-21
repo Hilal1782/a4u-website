@@ -416,3 +416,69 @@ body{
 .our_team .team_member .member_img:hover .social_media{
   transform: scale(1);
 }
+
+
+
+/* RESPONSIVENESS MEDIA QUAERY  */
+@media only screen and (max-width: 566px)
+
+{
+	.header
+{
+display: inline-block;
+}
+.nav_bar{
+	display: inline-block;
+	
+}
+	.box{
+		display:block;
+	}
+	.box .card{
+		margin-left: 50px;
+	}
+	.contact
+	{
+		display: inline-block;
+	}
+	.contact .title h2{
+    font-size: x-large;
+	padding-right: 650px;
+	}
+	.service .title h2{
+		font-size: x-large;
+	padding-right: 700px;
+	}
+	.content
+	{
+		display: inline-block;
+	}
+	.main{
+		display: inline-block;
+	}
+	.about-text
+	{
+		display: inline-block;
+	}
+	.about-text h2
+	{
+		margin-left: 90px;
+	}
+	.about-text h5{
+		margin-left: 90px;
+	}
+	}
+	.about-text p{
+		padding-left: 10px;
+		padding-right: 140px;
+	}
+	.about-text .button
+	{
+		margin-left: 200px;
+	}
+
+
+
+
+/* nav bar in mobile  */
+
