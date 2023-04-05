@@ -323,7 +323,7 @@ h5{
   box-sizing: border-box;
   font-family: 'Exo 2', sans-serif;
 }
-
+/* 
 body{
   background: #8c7ae6;
 }
@@ -333,7 +333,7 @@ body{
   text-align: center;
   background: #8c7ae6;
 }
-
+ */
 .wrapper h1{
   font-family: 'Yatra One', cursive;
   font-size: 48px;
